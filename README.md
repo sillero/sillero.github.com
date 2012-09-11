@@ -1,1 +1,1 @@
-# [http://sillero.github.com/]
+# http://sillero.github.com/
